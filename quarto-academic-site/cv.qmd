@@ -1,0 +1,29 @@
+---
+title: CV & contact
+---
+
+[Download my academic CV (PDF)](assets/cv.pdf){.cv-download}
+
+## Positions
+
+- Research Professor (Forsker I), Centre for Economic Research (SØF), NTNU Social Research.
+- Associate Professor (part-time), Department of Economics, NTNU.
+
+## Education
+
+- PhD in Economics, Norwegian University of Science and Technology (NTNU), 2013.
+- MSc in Economics, NTNU, 2008.
+- Bachelor's degree in Economics, NTNU, 2006.
+
+## Profiles
+
+- [NTNU](https://www.ntnu.edu/employees/jon.iversen)
+- [NTNU Social Research](https://samforsk.no/en/employees/jon-marius-vaag-iversen)
+- [Google Scholar (publication search)](https://scholar.google.com/scholar?q=author%3A%22Jon+Marius+Vaag+Iversen%22)
+
+## Contact
+
+**Email:** [jon.iversen@ntnu.no](mailto:jon.iversen@ntnu.no) · [jon.iversen@samforsk.no](mailto:jon.iversen@samforsk.no)
+
+Trondheim, Norway
+

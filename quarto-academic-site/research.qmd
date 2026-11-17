@@ -1,0 +1,131 @@
+---
+title: Research
+---
+
+My research combines applied microeconometrics and education economics with an interest in labour markets, immigration and public policy.
+
+## Current working papers
+
+::: {.publication}
+**Exams as Information: Exposure to Math Exams and Later Study Choices**  
+Colin P. Green, Jon Marius Vaag Iversen, Lindsey Macmillan and Gill Wyness (2026).  
+*Working paper.*  
+Using random assignment to mathematics examinations in Norway, we examine how assessment information shapes students’ choices of advanced mathematics, subsequent STEM pathways and higher education outcomes.
+:::
+
+## Forthcoming book chapters and work in progress
+
+::: {.publication}
+**Grading and its consequences**  
+Colin Green and Jon Marius Vaag Iversen (forthcoming, 2027).  
+In *Handbook of Labor, Human Resources and Population Economics.*  
+A review of the economics literature on grading, assessment and their consequences for educational and later-life outcomes.
+:::
+
+::: {.publication}
+**Class size effects on educational outcomes**  
+Colin Green and Jon Marius Vaag Iversen.  
+Chapter in preparation for *The Economics of Education*, edited by Steve Bradley and Colin Green.  
+A review of causal evidence on class size, empirical challenges and the mechanisms through which class size may affect student outcomes.
+:::
+
+## Journal articles
+
+::: {.publication}
+**[Immigrant peers and English language skills](https://doi.org/10.1007/s00148-026-01153-3)**  
+Colin Green, Kristine Bekkeheien Haaland and Jon Marius Vaag Iversen (2026).  
+*Journal of Population Economics.*
+:::
+
+::: {.publication}
+**[Small-group instruction to improve student performance in mathematics in early grades: Results from a randomized field experiment](https://doi.org/10.1016/j.jpubeco.2022.104765)**  
+Hans Bonesrønning, Henning Finseraas, Ines Hardoy, Jon Marius Vaag Iversen, Ole Henning Nyhus, Vibeke Opheim, Kari Vea Salvanes, Astrid Marie Jorde Sandsør and Pål Schøne (2022).  
+*Journal of Public Economics.*
+:::
+
+::: {.publication}
+**[Refugees and the educational attainment of natives: Evidence from Norway](https://doi.org/10.1016/j.econedurev.2022.102258)**  
+Colin Green and Jon Marius Vaag Iversen (2022).  
+*Economics of Education Review.*
+:::
+
+::: {.publication}
+**[Quality measures in higher education: Norwegian evidence](https://www.sciencedirect.com/science/article/pii/S0272775722000127)**  
+Torberg Falch, Jon Marius Vaag Iversen, Ole Henning Nyhus and Bjarne Strøm (2022).  
+*Economics of Education Review.*
+:::
+
+::: {.publication}
+**[Parenting styles and school performance: evidence from second-generation immigrants in Norway](https://doi.org/10.1080/00313831.2022.2127882)**  
+Rune Jørgen Sørensen, Jon Marius Iversen, Johan From and Hans Bonesrønning (2022, online publication).  
+*Scandinavian Journal of Educational Research.*
+:::
+
+::: {.publication}
+**[Skills, Employment, and Labor Market Institutions: Evidence from PIAAC](https://doi.org/10.1111/labr.12174)**  
+Jon Marius Vaag Iversen and Bjarne Strøm (2020).  
+*LABOUR.*
+:::
+
+::: {.publication}
+**[Conditional gender peer effects?](https://www.sciencedirect.com/science/article/abs/pii/S2214804315000051)**  
+Jon Marius Vaag Iversen and Hans Bonesrønning (2015).  
+*Journal of Behavioral and Experimental Economics.*
+:::
+
+::: {.publication}
+**[Disadvantaged students in the early grades: will smaller classes help them?](https://doi.org/10.1080/09645292.2011.623380)**  
+Jon Marius Vaag Iversen and Hans Bonesrønning (2013).  
+*Education Economics.*
+:::
+
+::: {.publication}
+**[School accountability reforms and the use of special education](https://doi.org/10.1080/09645292.2013.796911)**  
+Jon Marius Vaag Iversen (2013).  
+*Education Economics.*
+:::
+
+## Books and book chapters
+
+::: {.publication}
+**[Tett på: Nye kompetansefellesskap i barnehage, skole og PPT](https://doi.org/10.18261/9788215075204-26)**  
+Joakim Caspersen, Wibeke Johansen, Håkon Leiulfsrud, Jon Marius Vaag Iversen, Sarah Kirkegaard Jensen, Otto Sevaldson Lillebø, Ole Henning Nyhus, Thomas Szulevicz and Christian Wendelborg (2026).  
+*Universitetsforlaget.*
+:::
+
+::: {.publication}
+**[The effect of class size in schools on student outcomes](https://doi.org/10.4324/9781003100232-8)**  
+Colin Green and Jon Marius Vaag Iversen (2022). In *Critical Perspectives on Economics of Education.*
+:::
+
+::: {.publication}
+**[Kan kommunale skoleeiere bidra til bedre undervisning for elever som strever?](https://hdl.handle.net/11250/3801659)**  
+Jon Marius Vaag Iversen and Hans Bonesrønning (2019). In *Skolen vår!*
+:::
+
+## Other publications and earlier working papers
+
+::: {.publication}
+**Local responses to a national productivity-enhancing reform**  
+Hans Bonesrønning and Jon Marius Vaag Iversen (2016).  
+*ifo DICE Report, 14*(1).
+:::
+
+::: {.publication}
+**[Are Non-Eligible Students Affected by Special Education?](https://www.ifo.de/en/cesifo/publications/2013/working-paper/are-non-eligible-students-affected-special-education)**  
+Jon Marius Vaag Iversen, Hans Bonesrønning and Ivar Pettersen (2013).  
+*CESifo Working Paper No. 4156.*
+:::
+
+::: {.publication}
+**Antall enkeltvedtak i grunnskolen øker – til fordel for elever som ikke mottar spesialundervisning?**  
+With Hans Bonesrønning and Ivar Pettersen (2011).  
+*Utdanning 2011*, Statistics Norway.
+:::
+
+## Research programme
+
+My current research examines school assessment, grading practices, educational choices and their long-run consequences. I am particularly interested in the differences between teacher assessments and external examinations, and how these differences matter for educational opportunities. See [EduGAP](projects.qmd) for the wider research programme.
+
+Additional publications and working papers: [NTNU research profile](https://www.ntnu.edu/employees/jon.iversen) · [Google Scholar (publication search)](https://scholar.google.com/scholar?q=author%3A%22Jon+Marius+Vaag+Iversen%22).
+

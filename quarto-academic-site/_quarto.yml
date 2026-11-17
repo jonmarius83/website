@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+  resources:
+    - assets/cv.pdf
+    - assets/portrait.jpg
+
+website:
+  title: "Jon Marius Vaag Iversen"
+  description: "Research in education economics, labour economics and applied econometrics."
+  navbar:
+    background: light
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: WEEP
+        href: weep.qmd
+      - text: Applied research
+        href: applied-research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: cv.qmd
+  page-footer:
+    left: "© Jon Marius Vaag Iversen"
+    right: "[Contact](mailto:jon.iversen@ntnu.no) · [NTNU](https://www.ntnu.edu/employees/jon.iversen)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    lang: en
+    link-external-newwindow: true
+

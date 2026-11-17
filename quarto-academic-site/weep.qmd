@@ -1,0 +1,85 @@
+---
+title: "Workshop on Education Economics and Policy (WEEP)"
+---
+
+WEEP is an annual international workshop bringing together researchers in education economics to discuss new research on education and education policy, exchange ideas and develop research collaborations. The editions from 2026 onwards are supported by the [EduGAP research programme](projects.qmd).
+
+::: {.workshop-upcoming}
+::: {.eyebrow}
+Next workshop
+:::
+
+## WEEP 2027
+
+**London, United Kingdom · November 2027**
+
+Further information about the programme and call for papers will be announced in due course.
+:::
+
+## Previous workshops (2023–2026)
+
+::: {.workshop-edition}
+### WEEP 2026 {#weep-2026}
+
+::: {.project-meta}
+7–8 September 2026 · Trondheim, Norway
+:::
+
+**Keynote speakers:** Elizabeth Cascio (Dartmouth College) and Björn Öckert (IFAU).
+
+An invited session on grading and assessment was organised by Hans Henrik Sievertsen (VIVE). The workshop was held at Scandic Nidelven and supported by EduGAP.
+
+**Organisers:** Torberg Falch, Colin Green and Jon Marius Vaag Iversen.
+
+[Conference website and final programme](https://sites.google.com/site/prgreenc/weep-2026)
+:::
+
+::: {.workshop-edition}
+### WEEP 2025 {#weep-2025}
+
+::: {.project-meta}
+13–14 October 2025 · Oslo, Norway
+:::
+
+**Keynote speakers:** Ludger Woessmann (ifo Center for the Economics of Education) and Sarah Cohodes (University of Michigan).
+
+Hosted at Hotel Bristol by the University of Oslo, NIFU and NTNU, with support from the ARcEd research project.
+
+**Organising committee:** Astrid Marie Jorde Sandsør, Siv-Elisabeth Skjelbred and Colin Green.
+
+[Conference website and final programme](https://sites.google.com/site/astridsandsor/weep-2025) · [NIFU announcement](https://www.nifu.no/nifu-medarrangor-pa-workshop-13-14-oktober-2025-workshop-education-economics-and-policy-weep/)
+:::
+
+::: {.workshop-edition}
+### WEEP 2024 {#weep-2024}
+
+::: {.project-meta}
+9–10 September 2024 · Trondheim, Norway
+:::
+
+**Keynote speakers:** Ingo Isphording (IZA) and Helena Skyt Nielsen (Aarhus University).
+
+Hosted at Scandic Nidelven by NTNU and NTNU Social Research.
+
+**Organisers:** Torberg Falch, Colin Green and Jon Marius Vaag Iversen.
+
+[Conference website and final programme](https://sites.google.com/site/prgreenc/weep-2024)
+:::
+
+::: {.workshop-edition}
+### WEEP 2023 {#weep-2023}
+
+::: {.project-meta}
+7–8 September 2023 · Trondheim, Norway
+:::
+
+**Keynote speakers:** Jane Cooley Fruehwirth (University of North Carolina at Chapel Hill) and Lindsey Macmillan (UCL).
+
+Hosted at Scandic Nidelven by NTNU and NTNU Social Research.
+
+**Organisers:** Torberg Falch, Colin Green and Jon Marius Vaag Iversen.
+
+[Conference website and programme archive](https://sites.google.com/site/prgreenc/Workshop)
+:::
+
+For more information and workshop archives, see [Colin Green's website](https://sites.google.com/site/prgreenc/home).

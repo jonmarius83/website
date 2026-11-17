@@ -1,0 +1,73 @@
+---
+title: "Home"
+title-block-banner: false
+page-layout: full
+---
+
+::: {.profile-grid}
+::: {.portrait-column}
+![](assets/portrait.jpg){.profile-photo alt="Jon Marius Vaag Iversen"}
+
+::: {.photo-credit}
+Photo: [NTNU staff profile](https://www.ntnu.no/ansatte/jon.iversen)
+:::
+
+::: {.profile-links}
+[Email](mailto:jon.iversen@ntnu.no) · [NTNU](https://www.ntnu.edu/employees/jon.iversen)  
+[NTNU Social Research](https://samforsk.no/en/employees/jon-marius-vaag-iversen)  
+[Google Scholar (publication search)](https://scholar.google.com/scholar?q=author%3A%22Jon+Marius+Vaag+Iversen%22)  
+[Download CV (PDF)](assets/cv.pdf){.cv-download}
+:::
+:::
+
+::: {.intro-column}
+::: {.eyebrow}
+Economist · Researcher · Educator
+:::
+
+# Jon Marius Vaag Iversen {.hero-title}
+
+::: {.affiliation}
+Research Professor, Centre for Economic Research (SØF), NTNU Social Research  
+Associate Professor (part-time), Department of Economics, NTNU
+:::
+
+::: {.biography}
+I am an applied economist with a PhD in economics from NTNU. My research focuses on the economics of education, with a particular interest in how assessment, school resources and the composition of classrooms affect students' achievement, educational choices and later labour market outcomes.
+
+My work draws on administrative register data, experiments and applied econometric methods. Alongside my academic research, I lead and contribute to policy-oriented projects on education, labour markets and the financing and organisation of public services. At NTNU, I teach undergraduate statistics and econometrics.
+:::
+
+::: {.interest-tags}
+Education economics · Labour economics · Applied microeconometrics · Public economics
+:::
+:::
+:::
+
+## Featured research
+
+::: {.feature-grid}
+::: {.feature-card}
+::: {.eyebrow}
+Ongoing research programme · 2026–2029
+:::
+### EduGAP: Grading, Assessment and Pathways
+
+How do school assessment practices shape achievement, educational choices and later labour market outcomes? I lead this international collaboration between NTNU Social Research, NTNU, UCL and the University of Texas at Austin, funded by the Research Council of Norway (approximately NOK 12 million).
+
+[Explore the project](projects.qmd)
+:::
+::: {.feature-card}
+::: {.eyebrow}
+Working paper · 2026
+:::
+### Exams as Information: Exposure to Math Exams and Later Study Choices
+
+With Colin P. Green, Lindsey Macmillan and Gill Wyness. We study how exposure to mathematics examinations affects pupils’ later mathematics and STEM choices.
+
+[See current working papers](research.qmd#current-working-papers)
+:::
+:::
+
+[View research and publications →](research.qmd)
+

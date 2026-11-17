@@ -1,0 +1,38 @@
+---
+title: Research projects
+---
+
+## EduGAP: Grading, Assessment and Pathways
+
+::: {.project-meta}
+2026–2029 · Principal investigator · Research Council of Norway · NOK 12 million
+:::
+
+EduGAP investigates how different forms of assessment affect pupils’ grades, learning, subsequent educational choices and labour market outcomes. The project brings together researchers from Norway, England and the United States.
+
+Grades provide information about achievement but also influence access to educational opportunities. EduGAP studies both functions using longitudinal administrative data, variation in grading practices and differences between examination and teacher-assessment systems. A particular focus is whether assessment practices affect pupils differently according to gender, socioeconomic background and immigrant background.
+
+The research programme focuses on three questions:
+
+- How does grading vary across teachers, schools and student groups?
+- How do teacher assessment and external examinations influence educational pathways and later outcomes?
+- What can we learn from differences between the Norwegian and English assessment systems?
+
+**Research team:** Jon Marius Vaag Iversen, Colin Green (NTNU), Lindsey Macmillan and Gill Wyness (UCL), and Richard Murphy (University of Texas at Austin).
+
+I lead the project at the Centre for Economic Research (SØF), NTNU Social Research. The programme combines research collaboration, doctoral training and international dissemination, including [WEEP](weep.qmd).
+
+[Official project page](https://samforsk.no/prosjekter/edugap) · [Research announcement](https://samforsk.no/nyheter/skal-forske-pa-hvordan-ulike-vurderingsformer-pavirker-elevers-karakterer-utdannings-og-yrkesvalg)
+
+## Tett på – educational psychological services
+
+The project examines new forms of collaboration between kindergartens, schools and educational psychological services (PPT). My contribution concerns the quantitative evaluation of the reform, including its implications for pupils' participation and learning outcomes.
+
+[Research book (2026)](https://www.universitetsforlaget.no/tett-pa) · [Project findings (Norwegian Directorate for Education and Training)](https://www.udir.no/tall-og-forskning/finn-forskning/rapporter/2026/ppt-tettere-barnehage-og-skole-bedre-stotte/)
+
+## Small-group instruction in mathematics
+
+This research investigates the effects of targeted small-group mathematics instruction on early-grade pupils, drawing on a large randomised field experiment in Norwegian schools.
+
+[Project information](https://www.nifu.no/prosjekter/11-prosjektet/) · [Journal article](https://doi.org/10.1016/j.jpubeco.2022.104765)
+

@@ -1,0 +1,161 @@
+---
+title: Applied research and Norwegian reports
+toc: true
+toc-title: Research areas
+---
+
+Alongside my academic research, I lead and contribute to policy-oriented research and evaluations at the Centre for Economic Research (SØF), NTNU Social Research. My commissioned research combines quantitative analyses, interviews and institutional knowledge to provide evidence for Norwegian public authorities.
+
+Below is a selection of research reports to which I have contributed, organised by topic. Original Norwegian report titles are retained, with links to the publications or relevant institutional repositories.
+
+## Resource allocation and school funding
+
+::: {.publication}
+**[Ressurstildelingsmodell i Møre og Romsdal](https://samforsk.no/publikasjoner/nr-6-22-ressurstildelingsmodell-i-more-og-romsdal)** (2022)  
+Analysis of expenditure needs and funding formulas for upper secondary schools, including provision for students with additional educational needs.
+:::
+
+::: {.publication}
+**[Vurdering av nivået på trekkordningen for elever i frittstående skoler](https://samforsk.no/uploads/files/Publikasjoner/Vurdering-av-nivaet-pa-trekkordningen-for-elever-i-frittstaende-skoler-WEB.pdf)** (2021)  
+Analysis of the deductions from municipal and county authority budgets associated with pupils attending independent schools.
+:::
+
+::: {.publication}
+**[Ressurstildelingsmodell i Trøndelag fylkeskommune](https://samforsk.no/publikasjoner/nr-2-17-ressurstildelingsmodell-i-trondelag-fylkeskommune)** (SØF Report 2/17)  
+Simulation and assessment of funding models for upper secondary schools in connection with the merger of the two Trøndelag counties.
+:::
+
+::: {.publication}
+**[Kostnader ved skoleskyss](https://samforsk.no/publikasjoner/nr-3-15-kostnader-ved-skoleskyss)** (2015)  
+An investigation of county authorities' school transport costs and the factors driving expenditure needs.
+:::
+
+::: {.publication}
+**[Evaluering av landslinjeordningen](https://samforsk.no/uploads/files/Publikasjoner/SOF-R-02_15.pdf)** (2015)  
+Evaluation of the organisation and funding of nationally designated upper secondary programmes.
+:::
+
+## Teacher qualifications and recruitment
+
+These reports explore teacher qualifications, differences between statistical sources and challenges in recruiting teachers across schools and regions.
+
+::: {.publication}
+**[Hvem er lærerne uten lærerutdanning?](https://samforsk.no/uploads/files/NTNU-Samf-SOFrapport-Lererne-uten-lererutdanning.pdf)** (2024)  
+A study of teachers without formal teaching qualifications, focusing on their subject knowledge and pedagogical training. [NTNU Social Research – news](https://samforsk.no/nyheter/har-studert-laerere-uten-laererutdanning).
+:::
+
+::: {.publication}
+**[Rekruttering av lærere ved norske skoler](https://nva.sikt.no/registration/0198cc5882ba-bba18ee8-ea0a-4ca1-a891-6b697ce172e4)** (2023)  
+A study of the teacher labour market and the challenges schools face in recruiting qualified teachers. [NTNU Social Research – news](https://samforsk.no/nyheter/vanskeligst-a-rekruttere-laerere-for-de-yngste-elevene).
+:::
+
+::: {.publication}
+**[Ulikheter i lærerstatistikk](https://samforsk.no/uploads/files/Ulikheter-i-laererstatistikk-WEB.pdf)** (2021)  
+A comparison of data sources and definitions to explain differences in estimates of teacher qualifications. [NTNU Social Research – news](https://samforsk.no/nyheter/kronikk-forskjellige-laererstatistikker-gir-ulikt-inntrykk-av-kvalifikasjoner-i-skolen).
+:::
+
+## Schools and education
+
+::: {.publication}
+**[Evaluering av inntaksordningen for offentlige videregående skoler i Trøndelag](https://nva.sikt.no/registration/01a1a61f1e0b-6e780b50-7879-4f0f-90c5-9cec8c45af75)** (2026)  
+Evaluation of the new admissions system and its implications for student choice, application patterns, travel distances and educational provision. [NTNU Social Research – project](https://samforsk.no/prosjekter/evaluering-av-inntaksordningen-for-offentlige-videregaende-skoler-i-trondelag).
+:::
+
+::: {.publication}
+**[Barn med særskilte behov: Statistikk og analyser fra Oslo kommune](https://nva.sikt.no/registration/0198cc908e12-87234f76-8a11-4ed7-920e-21865f07a96d)** (2022)  
+Descriptive and quantitative analysis of children requiring additional support and educational adaptations.
+:::
+
+::: {.publication}
+**[Intensivundervisning i matematikk for yrkesfagelever: Sluttrapport](https://samforsk.no/publikasjoner/nr-1-20-intensivundervisning-i-matematikk-for-yrkesfagelever-sluttrapport)** (2020)  
+Evaluation of additional mathematics instruction for students in vocational upper secondary programmes.
+:::
+
+::: {.publication}
+**[Hvordan påvirker kommunens politiske og administrative styring og ledelse resultatene i skolen?](https://samforsk.no/publikasjoner/nr-6-19-hvordan-pavirker-kommunens-politiske-og-administrative-styring-og-ledelse-resultatene-i-skolen)** (2019)  
+Analysis of local school governance and relationships between leadership, school practices and student outcomes.
+:::
+
+::: {.publication}
+**[Spesialundervisning i storbyene](https://samforsk.no/uploads/files/Publikasjoner/SOF-R-04_16.pdf)** (2016)  
+A comparison of the organisation, resource use and delivery of special education in major Norwegian cities.
+:::
+
+::: {.publication}
+**[Kvalitetsindikatorer i universitets- og høgskolesektoren](https://samforsk.no/uploads/files/Publikasjoner/Kvalitetsindikatorer-i-universitets-og-hogskolesektoren-nr.-05-2016-WEB.pdf)** (2016)  
+Development of quality indicators for higher education, including measures based on graduates' labour market outcomes.
+:::
+
+::: {.publication}
+**[På rett vei? Evaluering av 2011-reformene i Sandefjordskolene](https://samforsk.no/uploads/files/Publikasjoner/SOF-R-04_15.pdf)** (2015)  
+Evaluation of municipal school reforms and changes in student achievement.
+:::
+
+::: {.publication}
+**[Kommunal variasjon i elevresultater, ressursinnsats og styringssystemer](https://www.udir.no/tall-og-forskning/finn-forskning/rapporter/Kommunal-variasjon-i-elevresultater-ressursinnsats-og-styringssystemer/)** (2012)  
+Analysis of the relationship between municipal governance arrangements, resource use and outcomes in compulsory education.
+:::
+
+## Local government and public economics
+
+::: {.publication}
+**[Produksjonsindeks for fylkeskommunene](https://www.ks.no/fou-sok/2026/204037/)** (2026)  
+Development of an index to compare the volume of public services provided by county authorities.
+:::
+
+::: {.publication}
+**[Variasjoner i kommunal finansiering av fastlegeordningen](https://samforsk.no/uploads/files/SOF_Sluttrapport_Fastleger_UU.pdf)** (2024)  
+An assessment of municipalities' additional costs and variation in the organisation and financing of general practitioner services. [NTNU Social Research – project](https://samforsk.no/prosjekter/organisering-og-finansiering-av-fastlegeordningen).
+:::
+
+::: {.publication}
+**[Kommunal administrasjon i storbyene](https://samforsk.no/uploads/files/3_22_kommunal_administrasjon_i_storbyene.pdf)** (2022)  
+A comparison of administrative expenditure, accounting practices and organisational arrangements across major Norwegian cities.
+:::
+
+::: {.publication}
+**[Produksjon, kvalitet og effektivitet i kommunal tjenesteproduksjon](https://nva.sikt.no/registration/0198cc7bca7d-0a03a6f5-ddb4-4100-9a88-de95089f79a2)** (2021)  
+Analysis of service provision, quality and resource efficiency in Norwegian municipalities.
+:::
+
+::: {.publication}
+**[Ressursbruk i levekårsutsatte byområder](https://samforsk.no/publikasjoner/ressursbruk-i-levekarsutsatte-byomrader)** (2020)  
+An assessment of public expenditure in urban neighbourhoods facing socioeconomic disadvantage.
+:::
+
+::: {.publication}
+**[Finansielle måltall og handlingsregler for økonomistyring i storbykommunene](https://samforsk.no/publikasjoner/nr-3-19-finansielle-maltall-og-handlingsregler-for-okonomistyring-i-storbykommunene)** (2019)  
+A study of financial management tools to support fiscal balance and stable public service provision over time.
+:::
+
+::: {.publication}
+**[Ressurskrevende tjenester i pleie og omsorg – omfang og kostnader](https://samforsk.no/publikasjoner/nr-1-15-ressurskrevende-tjenester-i-pleie-og-omsorg-omfang-og-kostnader)** (2015)  
+Analysis of municipal expenditure on high-cost care services and the national supplementary funding scheme.
+:::
+
+## Labour markets, integration and regional development
+
+::: {.publication}
+**[Kartlegging og vurdering av kommunale næringsfond i Øst-Finnmark](https://nva.sikt.no/registration/01a1a14fcd4b-2c8d8d70-d329-431e-a3ac-c1de12de7a46)** (2026)  
+Analysis of how municipalities administer and use business development funds, and their contribution to local economic development. [NTNU Social Research – project](https://samforsk.no/prosjekter/kartlegging-og-vurdering-av-kommunale-naeringsfond-i-ost-finnmark).
+:::
+
+::: {.publication}
+**[Evaluering av tilskudd til utvikling av kvalifiserings- og integreringstiltak](https://nva.sikt.no/registration/019b221b1342-a65fd81d-c7e5-4ad9-8aa6-1c6ac849327b)** (2025)  
+Evaluation of the grant scheme supporting municipal initiatives to improve immigrants' skills and integration. [NTNU Social Research – project](https://samforsk.no/prosjekter/evatuki).
+:::
+
+::: {.publication}
+**[Tjenestereisen i helseaksen – en helhetlig undersøkelse av NAVs oppfølging av arbeidstakere med helseutfordringer](https://nva.sikt.no/registration/0198cc461645-7f712145-52e4-407b-b268-cb9874eb7ed7)** (2024)  
+A study of support, coordination and service pathways for workers experiencing health problems.
+:::
+
+::: {.publication}
+**[Arbeids- og næringslivet i Trøndelag i en tid med pandemi og smitteverntiltak](https://samforsk.no/uploads/files/SOF-rapport-Utviklingen-i-trondersk-naeringsliv.pdf)** (2020)  
+An assessment of the effects of the COVID-19 pandemic and public health restrictions on businesses and the labour market in Trøndelag.
+:::
+
+Since 2014, I have also contributed to Norges Bank's Regional Network through regular business interviews and analysis of economic developments in Trøndelag.
+
+See also [my NTNU Social Research profile](https://samforsk.no/ansatte/jon-marius-vaag-iversen) and [SØF's publications archive](https://samforsk.no/senter-for-okonomisk-forskning/publikasjoner) for additional reports and projects.
+

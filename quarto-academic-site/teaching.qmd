@@ -1,0 +1,32 @@
+---
+title: Teaching
+---
+
+I teach undergraduate statistics and econometrics at the Department of Economics, Norwegian University of Science and Technology (NTNU).
+
+## Department of Economics, NTNU
+
+Current courses:
+
+**[SØK1004 — Statistics for Economists](https://www.ntnu.edu/studies/courses/S%C3%98K1004)**  
+An introductory course covering probability, statistical inference and the use of statistical methods in economics.
+
+**[SØK1005 — Econometrics](https://www.ntnu.edu/studies/courses/S%C3%98K1005)**  
+An introduction to regression analysis, econometric inference, model assumptions and the interpretation of empirical economic research.
+
+## NTNU Business School
+
+Previous courses:
+
+**[MET1002 — Statistics for Economists](https://www.ntnu.edu/studies/courses/MET1002)**  
+An introductory course in descriptive statistics, probability, estimation and statistical hypothesis testing, with applications to economics and business.
+
+**[MET2010 — Applied Statistics](https://www.ntnu.edu/studies/courses/MET2010)**  
+An intermediate course in applied data analysis covering multiple regression, analysis of variance, statistical testing and the interpretation of empirical results.
+
+Official course information is available through the NTNU course catalogue.
+
+## External examining
+
+I serve as an external examiner across a broad range of economics courses, including microeconomics, macroeconomics and quantitative and applied economics. Institutions I have examined for include the University of Bergen (UiB), the University of Stavanger (UiS), NHH Norwegian School of Economics, BI Norwegian Business School and NTNU.
+
