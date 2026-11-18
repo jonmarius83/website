@@ -1,5 +1,6 @@
 ---
 title: Applied research and Norwegian reports
+description: "Norwegian research reports by Jon Marius Vaag Iversen on school finance and resource allocation, education policy, teacher recruitment and local government."
 toc: true
 toc-title: Research areas
 ---

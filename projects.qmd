@@ -1,5 +1,6 @@
 ---
 title: Research projects
+description: "Research projects led by or involving Jon Marius Vaag Iversen, including EduGAP: Grading, Assessment and Pathways."
 ---
 
 ## EduGAP: Grading, Assessment and Pathways

@@ -1,5 +1,6 @@
 ---
 title: Research
+description: "Research and academic publications by Jon Marius Vaag Iversen on education economics, grading and assessment, labour economics and applied microeconometrics."
 ---
 
 My research combines applied microeconometrics and education economics with an interest in labour markets, immigration and public policy.

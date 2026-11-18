@@ -6,10 +6,16 @@ project:
   resources:
     - assets/cv.pdf
     - assets/portrait.jpg
+    - robots.txt
 
 website:
   title: "Jon Marius Vaag Iversen"
-  description: "Research in education economics, labour economics and applied econometrics."
+  site-url: "https://jonmariusvaagiversen.no"
+  description: "Jon Marius Vaag Iversen is an economist and researcher at NTNU Social Research (SØF) and NTNU. Research in education economics, assessment, school resources and applied econometrics."
+  image: "assets/portrait.jpg"
+  image-alt: "Jon Marius Vaag Iversen"
+  open-graph: true
+  twitter-card: true
   navbar:
     background: light
     left:

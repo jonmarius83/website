@@ -1,5 +1,6 @@
 ---
 title: Teaching
+description: "Teaching in statistics and econometrics and external examining by Jon Marius Vaag Iversen at NTNU and other Norwegian institutions."
 ---
 
 I teach undergraduate statistics and econometrics at the Department of Economics, Norwegian University of Science and Technology (NTNU).

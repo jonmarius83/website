@@ -1,5 +1,14 @@
 ---
 title: "Home"
+pagetitle: "Jon Marius Vaag Iversen | Economics of Education"
+description: "Personal academic website of Jon Marius Vaag Iversen, economist at NTNU Social Research (SØF) and NTNU. Research, publications, projects, teaching and CV."
+description-meta: "Personal academic website of Jon Marius Vaag Iversen, economist at NTNU Social Research (SØF) and NTNU. Research, publications, projects, teaching and CV."
+author-meta: "Jon Marius Vaag Iversen"
+open-graph:
+  title: "Jon Marius Vaag Iversen | Economics of Education"
+twitter-card:
+  title: "Jon Marius Vaag Iversen | Economics of Education"
+include-in-header: _profile-schema.html
 title-block-banner: false
 page-layout: full
 ---

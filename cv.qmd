@@ -1,5 +1,6 @@
 ---
 title: CV & contact
+description: "Academic CV, professional affiliations and contact information for Jon Marius Vaag Iversen at NTNU Social Research and NTNU."
 ---
 
 [Download my academic CV (PDF)](assets/cv.pdf){.cv-download}

@@ -1,5 +1,6 @@
 ---
 title: "Workshop on Education Economics and Policy (WEEP)"
+description: "WEEP is an annual workshop in education economics. Information on the next workshop and archives of previous meetings."
 ---
 
 WEEP is an annual international workshop bringing together researchers in education economics to discuss new research on education and education policy, exchange ideas and develop research collaborations. The editions from 2026 onwards are supported by the [EduGAP research programme](projects.qmd).
