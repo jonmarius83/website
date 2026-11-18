@@ -43,6 +43,8 @@ a:hover { color: #173f4c; }
 .workshop-edition .project-meta { margin-bottom: .55rem; }
 .quarto-title-block:has(+ .profile-grid) { display: none; }
 body:has(.profile-grid) #title-block-header { display: none; }
+/* Keep page descriptions in search metadata, not in the visible title block. */
+#title-block-header .description { display: none; }
 .nav-footer { border-top: 1px solid var(--line); color: var(--muted); }
 @media (max-width: 720px) {
   .profile-grid, .feature-grid { grid-template-columns: 1fr; gap: 1.4rem; }
